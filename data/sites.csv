@@ -1,0 +1,7 @@
+site_id,site_name,region,power_capacity_mw,power_demand_mw,cooling_capacity_kw,cooling_load_kw,rack_capacity,racks_occupied,annual_growth_pct,expansion_power_mw,expansion_cooling_kw,expansion_racks,expansion_month
+DC1,Northwind Campus,US-East,24.0,17.5,30000,22000,2400,1850,12.0,6.0,7000,600,18
+DC2,Silver Lake,US-Central,18.0,14.9,22000,18000,1800,1420,15.0,4.0,5000,400,12
+DC3,Red Mesa,US-West,12.0,8.1,14000,11400,1200,780,10.0,0.0,3000,0,9
+DC4,Harbor Point,US-East,30.0,16.2,36000,19500,3000,1500,8.0,0.0,0,0,0
+DC5,Granite Falls,US-Central,10.0,7.6,12500,9300,1000,880,18.0,2.0,2500,300,15
+DC6,Pine Valley,US-West,20.0,11.0,25000,13600,2000,1100,9.0,0.0,0,0,0
